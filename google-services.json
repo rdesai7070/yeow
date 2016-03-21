@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_id": "yeow-3f260",
+    "project_number": "223538573887",
+    "name": "Yeow"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223538573887:android:03b454c8f02812c9",
+        "client_id": "android:com.example.riteshdesai.yeow",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.riteshdesai.yeow",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223538573887-hjtrcgrjmur3a36nef5bm9qg7jipqjb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riteshdesai.yeow",
+            "certificate_hash": "6E16F9AE2C9736E6B57F74C0D85D172226229DF5"
+          }
+        },
+        {
+          "client_id": "223538573887-aqdtpp9jpdj6oivgcl956oh002cs72ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223538573887:android:d81b191466c8bb35",
+        "client_id": "android:com.example.riteshdesai.yeowlogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.riteshdesai.yeowlogin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223538573887-3l8t049ofqq1hd2f70jlnvqnhenufp54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riteshdesai.yeowlogin",
+            "certificate_hash": "6E16F9AE2C9736E6B57F74C0D85D172226229DF5"
+          }
+        },
+        {
+          "client_id": "223538573887-aqdtpp9jpdj6oivgcl956oh002cs72ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
